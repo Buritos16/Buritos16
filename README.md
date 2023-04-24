@@ -1,7 +1,7 @@
 <h1>Hi 👋 my name Roman Typylo</h1>
 <h3>I am Front End Developer.</h3>
 
-- 🌍 I'm based in Ternopil, Urkaine
+- 🌍 I'm based in Ternopil, Ukraine
 
 - 👨‍💻 My portfolio are available at <a href='https://portfolio-beige-phi-46.vercel.app/](https://portfolio-beige-phi-46.vercel.app/'>potfolio</a>
 

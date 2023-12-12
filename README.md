@@ -1,5 +1,5 @@
 <h1>Hi 👋 my name Roman Typylo</h1>
-<h3>I am Front End Developer.</h3>
+<h3>I am Full Stack Developer.</h3>
 
 - 🌍 I'm based in Ternopil, Ukraine
 
